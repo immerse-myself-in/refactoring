@@ -13,3 +13,6 @@
 ## 간단한 앱
 
 - 앱은 스터디원과 논의하여 선정한다. (다른 의견 없으면 TODO 앱으로 진행예정)
+
+## 스터디 브랜치 활용방법(feat. git)
+https://www.notion.so/bomee/85af4cb7f65b4b86b707a0518a180f67?pvs=4
